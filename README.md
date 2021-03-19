@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me : 2018098@iiitdmj.ac.in
 --
 - ⚡ Fun fact: ***Be Happy***
-- ![enter image description here](https://github-readme-stats.vercel.app/api?username=hsgeeky&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+- ![enter image description here](https://github-readme-stats.vercel.app/api?username=hakimsingh7453&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 >
